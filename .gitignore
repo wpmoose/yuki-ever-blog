@@ -1,9 +1,8 @@
 # dependencies
 /node_modules
-/dist
-/assets
-/vendor
-/core
+/.pnp
+.pnp.js
+dist
 release
 languages
 .wp-env.json
@@ -24,4 +23,3 @@ build-errors.log*
 .idea
 
 !.gitkeep
-!freemius/languages
