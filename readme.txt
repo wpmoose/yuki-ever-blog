@@ -2,9 +2,9 @@
 Contributors: wpmoose
 Author: WP Moose
 Requires at least: WordPress 5.2+
-Tested up to: WordPress 6.7
+Tested up to: WordPress 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,10 @@ https://www.rawpixel.com/image/5927176
 https://www.rawpixel.com/image/6169189
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Ref: WordPress 7.0 ready
 
 = 1.0.0 =
 
